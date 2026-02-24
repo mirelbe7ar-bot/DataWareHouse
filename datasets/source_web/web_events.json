@@ -1,0 +1,19 @@
+[
+  { "event_id": 1, "session_id": "S1001", "customer_id": 21768, "event_type": "ProductView", "product_key": "BK-R93R-62", "event_timestamp": "2010-12-29T14:05:00" },
+  { "event_id": 2, "session_id": "S1001", "customer_id": 21768, "event_type": "AddToCart", "product_key": "BK-R93R-62", "event_timestamp": "2010-12-29T14:10:00" },
+  { "event_id": 3, "session_id": "S1001", "customer_id": 21768, "event_type": "CheckoutStart", "product_key": "BK-R93R-62", "event_timestamp": "2010-12-29T14:15:00" },
+
+  { "event_id": 4, "session_id": "S1002", "customer_id": 28389, "event_type": "ProductView", "product_key": "BK-M82S-44", "event_timestamp": "2010-12-29T15:05:00" },
+  { "event_id": 5, "session_id": "S1002", "customer_id": 28389, "event_type": "AddToCart", "product_key": "BK-M82S-44", "event_timestamp": "2010-12-29T15:12:00" },
+
+  { "event_id": 6, "session_id": "S1003", "customer_id": 25863, "event_type": "ProductView", "product_key": "BK-R50B-62", "event_timestamp": "2010-12-29T16:20:00" },
+
+  { "event_id": 7, "session_id": "S1004", "customer_id": 21768, "event_type": "ProductView", "product_key": "HL-U509-R", "event_timestamp": "2010-12-30T10:07:00" },
+  { "event_id": 8, "session_id": "S1004", "customer_id": 21768, "event_type": "ProductView", "product_key": "BK-R93R-62", "event_timestamp": "2010-12-30T10:10:00" },
+
+  { "event_id": 9, "session_id": "S1005", "customer_id": 14501, "event_type": "ProductView", "product_key": "BK-M82S-44", "event_timestamp": "2010-12-30T11:20:00" },
+  { "event_id": 10, "session_id": "S1005", "customer_id": 14501, "event_type": "AddToCart", "product_key": "BK-M82S-44", "event_timestamp": "2010-12-30T11:30:00" },
+  { "event_id": 11, "session_id": "S1005", "customer_id": 14501, "event_type": "RemoveFromCart", "product_key": "BK-M82S-44", "event_timestamp": "2010-12-30T11:35:00" },
+
+  { "event_id": 12, "session_id": "S1006", "customer_id": 11003, "event_type": "ProductView", "product_key": "BK-R93R-62", "event_timestamp": "2010-12-30T12:05:00" }
+]

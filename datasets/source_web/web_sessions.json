@@ -1,0 +1,56 @@
+[
+  {
+    "session_id": "S1001",
+    "customer_id": 21768,
+    "session_start": "2010-12-29T14:00:00",
+    "session_end": "2010-12-29T14:20:00",
+    "device_type": "Desktop",
+    "traffic_source": "Organic Search",
+    "country": "Australia"
+  },
+  {
+    "session_id": "S1002",
+    "customer_id": 28389,
+    "session_start": "2010-12-29T15:00:00",
+    "session_end": "2010-12-29T15:25:00",
+    "device_type": "Mobile",
+    "traffic_source": "Paid Ads",
+    "country": "United Kingdom"
+  },
+  {
+    "session_id": "S1003",
+    "customer_id": 25863,
+    "session_start": "2010-12-29T16:10:00",
+    "session_end": "2010-12-29T16:40:00",
+    "device_type": "Tablet",
+    "traffic_source": "Direct",
+    "country": "United States"
+  },
+  {
+    "session_id": "S1004",
+    "customer_id": 21768,
+    "session_start": "2010-12-30T10:05:00",
+    "session_end": "2010-12-30T10:18:00",
+    "device_type": "Mobile",
+    "traffic_source": "Email Campaign",
+    "country": "Australia"
+  },
+  {
+    "session_id": "S1005",
+    "customer_id": 14501,
+    "session_start": "2010-12-30T11:15:00",
+    "session_end": "2010-12-30T11:45:00",
+    "device_type": "Desktop",
+    "traffic_source": "Organic Search",
+    "country": "Canada"
+  },
+  {
+    "session_id": "S1006",
+    "customer_id": 11003,
+    "session_start": "2010-12-30T12:00:00",
+    "session_end": "2010-12-30T12:22:00",
+    "device_type": "Mobile",
+    "traffic_source": "Paid Ads",
+    "country": "United States"
+  }
+]

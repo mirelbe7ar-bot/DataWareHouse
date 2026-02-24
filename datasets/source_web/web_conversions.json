@@ -1,0 +1,23 @@
+[
+  {
+    "conversion_id": 1,
+    "session_id": "S1001",
+    "order_number": "SO43697",
+    "conversion_timestamp": "2010-12-29T14:18:00",
+    "revenue": 3578.27
+  },
+  {
+    "conversion_id": 2,
+    "session_id": "S1002",
+    "order_number": "SO43698",
+    "conversion_timestamp": "2010-12-29T15:22:00",
+    "revenue": 3399.99
+  },
+  {
+    "conversion_id": 3,
+    "session_id": "S1006",
+    "order_number": "SO43701",
+    "conversion_timestamp": "2010-12-30T12:20:00",
+    "revenue": 699.10
+  }
+]
